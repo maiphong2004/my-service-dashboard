@@ -21,7 +21,7 @@ export default function Contact() {
 
                         {/* Facebook */}
                         <a
-                              href="https://facebook.com/your-id"
+                              href="https://www.facebook.com/ponponwind"
                               target="_blank"
                               className="w-72 p-6 rounded-2xl bg-gradient-to-br from-indigo-600 to-purple-500 
                  hover:scale-105 transition shadow-lg"
