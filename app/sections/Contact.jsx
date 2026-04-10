@@ -9,7 +9,7 @@ export default function Contact() {
                   <div className="flex flex-col md:flex-row gap-6 justify-center items-center">
 
                         {/* Zalo */}
-                        <a
+                        {/* <a
                               href="https://zalo.me/your-id"
                               target="_blank"
                               className="w-72 p-6 rounded-2xl bg-gradient-to-br from-blue-600 to-blue-400 
@@ -17,7 +17,7 @@ export default function Contact() {
                         >
                               <h3 className="text-xl font-semibold mb-2">Zalo</h3>
                               <p className="text-sm opacity-90">Nhắn tin nhanh - phản hồi ngay</p>
-                        </a>
+                        </a> */}
 
                         {/* Facebook */}
                         <a
