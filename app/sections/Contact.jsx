@@ -27,7 +27,7 @@ export default function Contact() {
                  hover:scale-105 transition shadow-lg"
                         >
                               <h3 className="text-xl font-semibold mb-2">Facebook</h3>
-                              <p className="text-sm opacity-90">Xem thêm sản phẩm & feedback</p>
+                              {/* <p className="text-sm opacity-90">Xem thêm sản phẩm & feedback</p> */}
                         </a>
 
                   </div>
